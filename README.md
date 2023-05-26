@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 <br>👋 Hi, I’m @PRADUL-P<br>👀 I’m interested in Web-designing<br>🌱 I’m currently btech student<br>💞️ I’m looking to collaborate<br>📫 How to reach me 
-PERSONAL WEBSITE  : https://pradul-p.github.io/
+PERSONAL WEBSITE  : https://pradul-p.github.io/ <br>
 PORTFOLIO WEBSITE : https://pradul-p.tech/
 
 
