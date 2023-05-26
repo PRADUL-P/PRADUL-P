@@ -3,7 +3,9 @@
 - 👀 I’m interested in Web-designing
 - 🌱 I’m currently btech student
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me   https://pradul-p.github.io/
+- 📫 How to reach me
+   PERSONAL WEBSITE : https://pradul-p.github.io/
+   PORTFOLIO WEBSITE : https://pradul-p.tech/
 
 
 PRADUL-P/PRADUL-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
