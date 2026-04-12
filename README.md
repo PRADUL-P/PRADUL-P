@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me
 
- WEBSITE : https://pradul-p.github.io/
+ WEBSITE : https://pradulp.github.io/
 
 
 
